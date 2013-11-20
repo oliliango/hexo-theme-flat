@@ -1,14 +1,14 @@
 menu:
   主页: /
   归档: /archives
-  友情链接: /links/
+  GitHub: https://github.com/reee
   Twitter: https://twitter.com/_zzzh
-  Flickr: http://www.flickr.com/photos/zong777/
-  Github: https://github.com/reee
-  关于我: /about-me/
+  关于我: /about-me
 
 widgets: 
+- search
 - category
+- tag
 
 excerpt_link: Read More
 
@@ -27,5 +27,5 @@ addthis:
 
 fancybox: true
 
-google_analytics: UA-11520870-2
+google_analytics:
 rss:
