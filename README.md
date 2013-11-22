@@ -9,7 +9,7 @@ Demo请看这里：<http://hong.im>
 通过下面的命令将主题下载到您的theme目录，然后修改blog的`_config.yml`中`theme`为`flat`。
 
 ```
-git clone git://github.com/tommy351/hexo-theme-light.git themes/light
+git clone https://github.com/reee/hexo-theme-flat themes/flat
 ```
 
 ## 更新

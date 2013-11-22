@@ -1,6 +1,7 @@
 menu:
   主页: /
   归档: /archives
+  友链: /links
   GitHub: https://github.com/reee
   Twitter: https://twitter.com/_zzzh
   关于我: /about-me
@@ -27,5 +28,5 @@ addthis:
 
 fancybox: true
 
-google_analytics:
+google_analytics: UA-11520870-2
 rss:
